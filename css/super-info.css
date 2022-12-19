@@ -1,0 +1,24 @@
+.super-info-bg {
+  background: #122ab2;
+  color: #fff;
+}
+
+.super-info {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 0.625rem;
+}
+
+.super-info p,
+.super-info a {
+  margin: 0 0.625rem 0.625rem 0.625rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+}
+
+.super-info a {
+  color: #fff;
+}
